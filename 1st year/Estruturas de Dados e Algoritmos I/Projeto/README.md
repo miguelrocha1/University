@@ -1,4 +1,3 @@
-##### EN
 # About the project
 This project was developed in the C Programming language, with the objective of creating a dictionary in Portuguese using hash tables.
 # Functionalities
