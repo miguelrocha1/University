@@ -4,7 +4,15 @@ This project is a simulation of the game "Ouri" ("Oware" in English), developed 
 - Game Modes: Supports player vs. player and player vs. computer modes.
 - Computer AI: Implements a Greedy algorithm for the computer player's moves, prioritizing high-yield moves
 # How to run
-
+- Open the provided files in any IDE;
+- With the help of the makefile provided, do the following in the terminal.
+```
+make 
+```
+This will link the files and generate a executable file.
+```
+./ouri
+```
 # Grade
 ### 19.0/20.0
 # Authors
