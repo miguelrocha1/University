@@ -2,10 +2,10 @@
 This project describes the implementation of a prototype of a health hub app. This project consisted of various phases, which helped us develop the ideas we needed for the final prototype.
 This project could still be improved in many ways, but we decided to not improve it anymore.
 # How to run it
-To run it, click on the link of the figma app in the work report of phase 4.
+To visualize the prototype of this project, click on the this [link](https://www.figma.com/proto/0irek0bjhbhwalUVHbqhxI/HealtHub?page-id=0%3A1&type=design&node-id=402-9178&viewport=380%2C596%2C0.13&t=NoQ8xHby59vLWxMo-1&scaling=scale-down&starting-point-node-id=402%3A9178)
 # Grade
-### 17.54/20.0
+### 17.54/20.00
 # Authors
 - Miguel Rocha
 - Rui Emídio
-- @MiguelPombeiro
+- [Miguel Pombeiro](https://github.com/MiguelPombeiro)
