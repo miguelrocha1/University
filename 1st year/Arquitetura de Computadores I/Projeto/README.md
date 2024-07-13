@@ -11,7 +11,7 @@ This filter calculates the median of all eight surrounding pixels, as well as th
 This result is usually better than the mean filter, since a single very unrepresentative pixel in a neighborhood won't affect the median value significantly.
 The border of the image is set to black because of some limitations and to make the project more simple.
 # How to run 
-- Open it in an RISC-V simulator, just like RARS.
+- Open it in an RISC-V simulator, just like RARS. (make sure to enable the "Initialize Program Counter to 'global' main if defined" option if you are using RARS simulator.
 - Convert the image to .gray then change the name of the file inside the .data section.
 - Convert the .gray optput to the desired file extention.
 # Grade
