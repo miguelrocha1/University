@@ -3,7 +3,7 @@ This project goal was to develop a program that was able to denoise an 400x599 c
 This project was developed in Assembly RISC-V programming language.
 
 # Functionalities
-This program denoises any noise corrupted image with the dimensions 400x599, using two denoising techniques (median and mean).
+This program denoises any grayscale noise corrupted image with the dimensions 400x599, using two denoising techniques (median and mean).
 ### Mean filter:
 This filter calculates the mean of all eight surrounding pixels, as well as the pixel that we are visiting, then replaces it in the new image.
 ### Median filter:
