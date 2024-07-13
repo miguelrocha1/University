@@ -517,8 +517,8 @@ ret
 #
 ###################################################################################################################################################
 main:
-addi, sp, sp -8
-sw, ra, 4(sp)
+addi sp, sp -8
+sw ra, 4(sp)
 sw s1, 0(sp)
 
 # Menu para escolha do filtro a aplicar
@@ -550,8 +550,8 @@ la a1, final_image
 jal FUNC_write_gray_image
 
 
-lw, ra, 4(sp)
+lw ra, 4(sp)
 lw s1, 0(sp)
-addi, sp, sp 8
+addi sp, sp 8
 
 Ending (0, "Filtro aplicado com sucesso!")
