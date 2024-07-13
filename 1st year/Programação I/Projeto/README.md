@@ -17,4 +17,4 @@ This will link the files and generate a executable file.
 ### 19.0/20.0
 # Authors
 - Miguel Rocha
-- @MiguelPombeiro
+- [Miguel Pombeiro](https://github.com/MiguelPombeiro)
