@@ -17,7 +17,7 @@ This will link the files and generate a executable file.
 ```
 - Open the output.txt file generated to see the correction of misspelled words.
 # Grade
-### 19.5/20.0
+### 20.0/20.0
 # Authors
 - Miguel Rocha
 - [Miguel Pombeiro](https://github.com/MiguelPombeiro)
