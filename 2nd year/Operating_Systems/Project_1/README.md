@@ -1,3 +1,10 @@
+Graded with 20/20
+
+
+
+
+
+
 # Simulação de Escalonamento de Processos - Modelo de 5 Estados
 
 ## Requisitos
